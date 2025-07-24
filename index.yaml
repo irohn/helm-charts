@@ -3,6 +3,16 @@ entries:
   bitwarden-cli:
   - apiVersion: v2
     appVersion: 2025.6.1
+    created: "2025-07-24T19:12:14.718932887Z"
+    description: A Helm chart for bitwarden-cli serve
+    digest: 750a0cc2ee86465f6114978e2a5496223537b526e5dccf78237a763c7175f676
+    name: bitwarden-cli
+    type: application
+    urls:
+    - https://github.com/irohn/helm-charts/releases/download/bitwarden-cli-0.1.1/bitwarden-cli-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 2025.6.1
     created: "2025-07-24T18:49:31.615356649Z"
     description: A Helm chart for bitwarden-cli serve
     digest: 02a33e07ec345d9540c9a930a5288c75af6b8a7ea600acbf9176ec32a59d9c67
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/irohn/helm-charts/releases/download/bitwarden-cli-0.1.0/bitwarden-cli-0.1.0.tgz
     version: 0.1.0
-generated: "2025-07-24T18:49:31.615362851Z"
+generated: "2025-07-24T19:12:14.718961731Z"
